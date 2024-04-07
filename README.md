@@ -36,4 +36,4 @@ This repository contains MATLAB code for the paper titled "Preoperative Diffusio
 
 3.  **Output**:
 
-   - After running the code, a ‘.tck’ file will be generated which describes the facial nerve pathway.
+        - After running the code, a ‘.tck’ file will be generated which describes the facial nerve pathway.
