@@ -6,7 +6,7 @@
 
 2.  Clone this repository to your local machine using the following command:
 
-        git clone https://github.com/hu-qm/ftd-based-fn-tractography.git
+        git clone https://github.com/88tiger/ftd-based-fn-tractography.git
 
 3.  Open MATLAB.
 
